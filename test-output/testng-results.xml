@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-13T18:37:58 IST" name="Default suite" finished-at="2023-04-13T18:39:16 IST" duration-ms="78406">
+    <groups>
+    </groups>
+    <test started-at="2023-04-13T18:37:58 IST" name="Default test" finished-at="2023-04-13T18:39:16 IST" duration-ms="78406">
+      <class name="userAndroid.login">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:userAndroid.login@72e5a8e]" started-at="2023-04-13T18:37:58 IST" name="setUp" finished-at="2023-04-13T18:38:13 IST" duration-ms="15191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login1()[pri:0, instance:userAndroid.login@72e5a8e]" started-at="2023-04-13T18:38:13 IST" name="login1" finished-at="2023-04-13T18:38:35 IST" duration-ms="21445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method signature="order()[pri:1, instance:userAndroid.login@72e5a8e]" started-at="2023-04-13T18:38:35 IST" name="order" finished-at="2023-04-13T18:39:16 IST" duration-ms="41698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order -->
+      </class> <!-- userAndroid.login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
